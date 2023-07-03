@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak8910 (Deepak)
 - 👀 I’m interested in solving problems using DS and algorighms.
-- 🌱 I’m currently learning golang and python.
+- 🌱 I’m currently AI & ML.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me : deepak8910@hotmail.com
 
